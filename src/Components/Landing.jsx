@@ -1,8 +1,11 @@
 import React from 'react'
+import Spline from '@splinetool/react-spline';
 
 function Landing() {
   return (
-    <div className='text-white text-10xl'>Landing</div>
+    <div className='text-black text-10xl'>
+
+    </div>
   )
 }
 
