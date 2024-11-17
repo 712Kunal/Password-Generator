@@ -31,12 +31,12 @@ function Landing() {
 
   return (
     <div className="relative min-h-screen w-full bg-black overflow-hidden">
-      {/* <main className="absolute inset-0 z-0">
+      <main className="absolute inset-0 z-0">
         <Spline
           scene="https://prod.spline.design/7GDl2-VS92mA0kEN/scene.splinecode"
           className="w-full h-full"
         />
-      </main> */}
+      </main>
 
       <div className="content relative z-10 flex flex-col items-center justify-center min-h-screen">
         <div className="container mx-auto px-4 py-8 md:py-20">
